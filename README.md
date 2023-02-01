@@ -1,6 +1,7 @@
-# Olá! Sou Rayalisson Pastor, desenvolvedor Frontend.
 
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=563D7C&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E4405F&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Rayalisson+Pastor;Sou+desenvolvedor+Frontend.;+:%29)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats:
 
@@ -15,6 +16,7 @@
 ## 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br>
 
 ## 🌐 Socials:
 
@@ -28,3 +30,5 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=563D7C&height=120&section=footer"/>
