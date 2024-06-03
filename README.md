@@ -27,8 +27,6 @@
   <a href="https://www.facebook.com/rayalisson.pastor" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <br>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=563D7C&height=120&section=footer"/>
